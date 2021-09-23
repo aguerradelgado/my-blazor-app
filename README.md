@@ -1,4 +1,8 @@
 # Blazor Starter Application
+# By: Alessandra Guerra Delgado 
+# Desc: This projects uses Azure Static Web Apps to develop and deploy a fronted and serverless API written wntirely in .NET
+# Created following tutorial from: https://devblogs.microsoft.com/aspnet/azure-static-web-apps-with-blazor/
+
 
 This template contains an example [Blazor WebAssembly](https://docs.microsoft.com/aspnet/core/blazor/?view=aspnetcore-3.1#blazor-webassembly) client application, a C# [Azure Functions](https://docs.microsoft.com/azure/azure-functions/functions-overview) and a C# class library with shared code.
 
