@@ -1,7 +1,5 @@
 # Blazor Starter Application
-# By: Alessandra Guerra Delgado ![tutorial_3](https://user-images.githubusercontent.com/62119621/134457022-5fba2397-9370-4388-988d-137d22188e5d.png)
-![tutorial_3_pt2](https://user-images.githubusercontent.com/62119621/134457024-b488197a-37a0-4b30-a6a4-2ce216c9b062.png)
-
+# By: Alessandra Guerra Delgado 
 # Desc: This projects uses Azure Static Web Apps to develop and deploy a fronted and serverless API written entirely in .NET
 # Created following tutorial from: https://devblogs.microsoft.com/aspnet/azure-static-web-apps-with-blazor/
 
@@ -28,3 +26,5 @@ _Note: If you're using the Azure Functions CLI tools, refer to [the documentatio
 ## Deploy to Azure Static Web Apps
 
 This application can be deployed to [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps), to learn how, check out [our quickstart guide](https://aka.ms/blazor-swa/quickstart).
+![tutorial_3](https://user-images.githubusercontent.com/62119621/134457022-5fba2397-9370-4388-988d-137d22188e5d.png)
+![tutorial_3_pt2](https://user-images.githubusercontent.com/62119621/134457024-b488197a-37a0-4b30-a6a4-2ce216c9b062.png)
